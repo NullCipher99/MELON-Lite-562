@@ -11,7 +11,6 @@ I was responsible for the **Hybrid Prompt Augmentation (HPA)** module in this pr
 - Implemented augmentation strategies to improve robustness against indirect prompt injection:
   - **Ignore variant**: appends override instructions to suppress injected context
   - **Negation variant**: transforms user instructions to test behavioral consistency
-- Developed a mechanism to compare model behavior across augmented prompts
 - Enabled detection of **paraphrased and contextually hidden attacks**
 - Contributed to reducing Attack Success Rate (ASR) in evaluation
 
