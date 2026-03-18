@@ -16,7 +16,9 @@ I was responsible for the **Hybrid Prompt Augmentation (HPA)** module in this pr
 - Contributed to reducing Attack Success Rate (ASR) in evaluation
 
 ## Disclaimer
-This is a forked version of a collaborative project. I contributed specifically to the HPA module; other components were implemented by my teammates.
+This is a forked version of a collaborative project. I contributed specifically to the HPA module; other components were implemented by my teammates. 
+
+--- 
 
 MELON-Lite is an extended and lightweight implementation of the MELON framework (https://github.com/kaijiezhu11/MELON/tree/main), evaluated using AgentDojo. The repository includes all the code necessary to run and reproduce our results. 
 
