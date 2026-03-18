@@ -2,6 +2,20 @@
 
 # MELON-Lite: MELON-Lite: A Resource-Efficient Hybrid Defense for Lightweight LLM Agents Against Indirect Prompt Injection Attacks
 
+This repository is a fork of the original MELON-Lite project:
+https://github.com/tmurali2/MELON-Lite-562
+
+## My Contribution
+- Implemented **Hybrid Prompt Augmentation (HPA)** to enhance detection of indirect prompt injection attacks in LLM agents
+- Designed and developed:
+  - **Ignore augmentation** to neutralize injected context
+  - **Negation augmentation** to test instruction polarity
+- Built logic to evaluate **behavioral consistency across prompt variants**
+- Improved attack detection performance by reducing Attack Success Rate (ASR)
+
+## Note
+This is a forked version of a team project. Other components (e.g., NLP-based filtering, caching optimizations) were developed by teammates.
+
 MELON-Lite is an extended and lightweight implementation of the MELON framework (https://github.com/kaijiezhu11/MELON/tree/main), evaluated using AgentDojo. The repository includes all the code necessary to run and reproduce our results. 
 
 We provide additional defenses:
