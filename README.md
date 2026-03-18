@@ -2,6 +2,8 @@
 
 # MELON-Lite: MELON-Lite: A Resource-Efficient Hybrid Defense for Lightweight LLM Agents Against Indirect Prompt Injection Attacks
 
+---
+
 This repository is a fork of the original MELON-Lite project:
 https://github.com/tmurali2/MELON-Lite-562
 
